@@ -1,2 +1,4 @@
 # quick-api-bindings
- Quickly create API binding for REST API 
+ Quickly create API binding for REST API
+
+DEPRICATED
